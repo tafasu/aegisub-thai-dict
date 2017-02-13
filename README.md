@@ -2,7 +2,7 @@
 
 This is a dictionary use for Aegisub spell check. It's Thai Hunspell Dictionary from [OpenOffice Dictionary](https://www.openoffice.org/lingucomponent/dictionary.html) with convert encoding from TIS620-2533 to UTF-8
 
-นีคือพจนานุกรมสำหรับระบบตรวจคำผิดของโปรแกรม Aegisub ซึ่งได้มาตาก พจนานุกรม Hunspell ของ [OpenOffice Dictionary](https://www.openoffice.org/lingucomponent/dictionary.html) ซึ่งผ่านการเปลี่ยนการเข้ารหัส จาก TIS620-2533 เป็น UTF-8
+นี่คือพจนานุกรมสำหรับระบบตรวจคำผิดของโปรแกรม Aegisub ซึ่งได้มาจาก พจนานุกรม Hunspell ของ [OpenOffice Dictionary](https://www.openoffice.org/lingucomponent/dictionary.html) ซึ่งผ่านการเปลี่ยนการเข้ารหัส จาก TIS620-2533 เป็น UTF-8
 
 ##วิธีการติดตั้ง
 ดาวน์โหลดไฟล์พจนานุกรม aegisub-thai-dict.zip จาก [Release](https://github.com/tafasu/aegisub-thai-dict/releases) ทำการแยกไฟล์ zip ออกมาจะได้ไฟล์ทั้งสิ้น 2 ไฟล์ได้แก่ th_TH.aff และ th_TH.dic  
